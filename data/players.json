@@ -1,0 +1,5 @@
+[
+  {"id": 1, "cl": 500, "mmr": 1200, "deck_archetype": "Zoo"},
+  {"id": 2, "cl": 520, "mmr": 1250, "deck_archetype": "Destroy"},
+  {"id": 3, "cl": 480, "mmr": 1180, "deck_archetype": "Move"}
+]
